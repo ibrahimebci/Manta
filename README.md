@@ -1,10 +1,8 @@
 <a href="https://manta.network">
 <img width="650" alt="github-banner" src="https://user-images.githubusercontent.com/98164067/154848582-58988e81-6a89-4c5f-bdae-ec83478e245c.png">
 </a>
-
 <br>
 <br>
-
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg?style=flat-square)](https://www.gnu.org/licenses/gpl-3.0)
 ![Tests on manta](https://img.shields.io/github/actions/workflow/status/Manta-Network/Manta/check_tests.yml?branch=manta)
 [![Twitter](https://img.shields.io/badge/-Twitter-5c5c5c?style=flat-square&logo=Twitter)](https://twitter.com/mantanetwork)
